@@ -30,7 +30,7 @@ ellipse(190,335, 50,100);
 //rect(100,250, 100,100);
 //rect(200,350, 100,100);
 fill(#42CB5C);
-rect(215,282, 25, 300);
+rect(215,282, 15, 310);
 //    Like the ellipse, the fist 2 numbers specify where to draw it, the other two are its size.
 //    The main difference is the x and y co-ordinates are the top left corner of the shape.
 //    If the width is the same as the height, it draws a square.
