@@ -16,6 +16,7 @@ public class WorldDomination {
 		// 3. Otherwise, tell them to sign up for classes at The League.
 		else {
 			JOptionPane.showInputDialog("sign up for classes at the league");
+			// https://www.wattpad.com/1047111523-living-together-dnf-old-memories
 		}
 			
 
